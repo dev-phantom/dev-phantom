@@ -9,7 +9,7 @@ I am Gods Favour Popularly known as phantom am a frontend web developer with 5 y
 * 🌍  I'm based in Lagos Nigeria
 * 🖥️  See my portfolio at [My Portfolio](http://phantom-portfolio.netlify.app/)
 * ✉️  You can contact me at [godsfavour1975@gmail.com](mailto:godsfavour1975@gmail.com)
-* 🚀  I'm currently working on [Nushopa app](http://https://nushopa.netlify.app/)
+* 🚀  I'm currently contributing to open source
 * 🧠  I'm learning Nextjs firebase angularjs
 * 🤝  I'm open to collaborating on Any type of legal project
 
