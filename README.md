@@ -1,14 +1,14 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Elimihele God's Favour
 
-## Web developer || Graphics Designer
+## Web developer || Open source contributor
 
-I am Gods Favour Popularly known as phantom am a frontend web developer with 5 years experience. Started off with HTMl now currently learning Reactjs am always open to any kind of web development job
+I am Gods Favour Popularly known as phantom am a frontend web developer with 5 years experience. Started off with HTMl now currently learning Nextjs am always open to any kind of web development job
 
-- 🌍  I'm based in Lagos Nigeria
-- 🖥️  See my portfolio at [My Portfolio](http://phantom-portfolio.netlify.app/)
+- 🌍  I'm based in Abuja Nigeria
+- 🖥️  See my portfolio at [My Portfolio](http://dev-phantom.netlify.app/)
 - ✉️  You can contact me at [godsfavour1975@gmail.com](mailto:godsfavour1975@gmail.com)
 - 🚀  I'm currently contributing to open source
-- 🧠  I'm learning Nextjs firebase angularjs
+- 🧠  I'm learning Nextjs kotlin
 - 🤝  I'm open to collaborating on Any type of legal project
 
 <a href="https://www.github.com/dev-phantom" target="_blank" rel="noreferrer"><img
@@ -50,12 +50,6 @@ src="https://img.shields.io/github/followers/dev-phantom?logo=github&style=for-t
 <a href="https://github.com/dev-phantom" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-phantom&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## [![](https://visitcount.itsvg.in/api?id=dev-phantom&icon=0&color=1)](https://visitcount.itsvg.in)
-<b>Top Repositories</b>
-
-
-<div width="100%" align="center"><a href="https://github.com/dev-phantom/netflix-clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-phantom&repo=netflix-clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
