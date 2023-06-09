@@ -11,15 +11,15 @@
 
 - 👯 I’m looking to collaborate on **Open source Projects and Gigs**
 
-- 🤝 I’m looking for help with **mantine, svelte, next 13,react native**
+- 🤝 I’m looking for help with **mantine, svelte, next 13, react native**
 
-- 👨‍💻 All of my projects are available at [https://dev-phantom.netlify.app/](https://dev-phantom.netlify.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://dev-phantom.netlify.app/)
 
 - 💬 Ask me about **react, firebase, javascript, css, tailwind etc**
 
 - 📫 How to reach me **godsfavour1975@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N29ymT-oU98QXcSV34BuhtYqSFCfPFmB/view](https://drive.google.com/file/d/1N29ymT-oU98QXcSV34BuhtYqSFCfPFmB/view)
+- 📄 Know about my experiences [my resume ](https://drive.google.com/file/d/1N29ymT-oU98QXcSV34BuhtYqSFCfPFmB/view)
 
 - ⚡ Fun fact **I'm kind of a nerd**
 
