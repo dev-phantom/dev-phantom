@@ -35,9 +35,8 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/dev-phantom"><img src="https://github-readme-stats.vercel.app/api?username=dev-phantom&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="dev-phantom's GitHub stats" /></a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-phantom&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true)](http://www.github.com/dev-phantom)
 
-<a href="http://www.github.com/dev-phantom"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-phantom&stroke=14b8a6&background=181824&ring=f97316&fire=f97316&currStreakNum=14b8a6&currStreakLabel=f97316&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-phantom&stroke=14b8a6&background=181824&ring=f97316&fire=f97316&currStreakNum=14b8a6&currStreakLabel=f97316&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true)](http://www.github.com/dev-phantom)
 
 
