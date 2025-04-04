@@ -40,3 +40,12 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-phantom&stroke=14b8a6&background=181824&ring=f97316&fire=f97316&currStreakNum=14b8a6&currStreakLabel=f97316&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true)](http://www.github.com/dev-phantom)
 
 
+<a href="https://www.potatoesqueezy.xyz/app/profile?user=dev-phantom" target="_blank" rel="noopener noreferrer">
+        <img 
+          src="https://coffee-major-wallaby-86.mypinata.cloud/ipfs/bafkreiaskbvndui55ycmqdu6ui6arfkhxmqgjvjcaw26myp4y76mmqtbyi" 
+          width="350" 
+          height="54" 
+          style="width: 250px; height: 54px;" 
+          alt="Potatoe Squeezy - Support GitHub contributors with crypto | Product Hunt" 
+        />
+      </a>
