@@ -22,14 +22,6 @@ Whether it’s crafting blazing-fast APIs, shipping sleek React components, or d
 
 ---
 
-### 🧰 Tech Stack & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,nodejs,postgres,prisma,python,tensorflow,git,figma,vscode,docker,firebase,github,kotlin,linux,materialui,mongodb,netlify,npm,supabase,ubuntu" />
-</div>
-
----
-
 ### 🚀 Featured Projects
 
 <table>
@@ -88,6 +80,14 @@ Whether it’s crafting blazing-fast APIs, shipping sleek React components, or d
 - 🗃️ [Verdura Nexus](https://github.com/dev-phantom/verdura-nexus) – All-in-one API proxy playground.
 
 > Know a cool project that should be here? [Let's collaborate](https://wa.link/6y2rtn) 🤝
+
+---
+
+### 🧰 Tech Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,nodejs,postgres,prisma,python,tensorflow,git,figma,vscode,docker,firebase,github,kotlin,linux,materialui,mongodb,netlify,npm,supabase,ubuntu" />
+</div>
 
 ---
 
