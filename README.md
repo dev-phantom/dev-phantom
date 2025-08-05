@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F58A&center=true&vCenter=true&width=600&lines=Code+in+silence%2C+deploy+in+light.;Research+like+a+scientist.;Mastering+math+one+equation+at+a+time.;Let's+build+the+future..." />
 </p>
-
+test
 ---
 
 ### 👨‍🚀 Who Am I?
