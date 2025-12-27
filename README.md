@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Dev-Phantom</h1>
 
 <p align="center">
-  <i>A Phantom Software Engineer • Open Source Developer • Web Alchemist • Research Enthusiast</i>
+  <i>Phantom Software Engineer • Open Source Developer • Web Alchemist • Research Enthusiast</i>
 </p>
 
 <p align="center">
@@ -12,13 +12,13 @@
 
 ### 👨‍🚀 Who Am I?
 
-I'm a passionate open source developer focused on building scalable tools, intuitive UIs, and powerful digital experiences. I believe in the magic of **community-driven development**, scientific thinking, and the endless possibilities of code.
+I’m a passionate **open source software engineer** focused on building **developer tools**, scalable systems, and clean user experiences.
 
-🧪 I experiment like a researcher.  
-⚙️ I build like an engineer.  
-🌍 I collaborate like a global citizen.
+🧪 I experiment like a researcher  
+⚙️ I build like an engineer  
+🌍 I collaborate with community in mind  
 
-Whether it’s crafting blazing-fast APIs, shipping sleek React components, or documenting with care, I’m all about **impactful, clean code** that scales and inspires.
+From blazing-fast APIs to polished React interfaces and well-documented OSS tools, I care deeply about **clarity, performance, and long-term impact**.
 
 ---
 
@@ -26,10 +26,33 @@ Whether it’s crafting blazing-fast APIs, shipping sleek React components, or d
 
 <table>
   <tr>
-    <td><a href="https://verdura-nexus.netlify.app"><img src="https://dev-phantom.netlify.app/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fphantom1245%2Fimage%2Fupload%2Fv1736969278%2Fportfolio%2FScreenshot_473_po9p3x.png&w=640&q=75" width="100%"/></a></td>
+    <td width="45%">
+      <a href="https://jetstart.site">
+        <img src="https://res.cloudinary.com/phantom1245/image/upload/v1766862869/Screenshot_901_ga28zc.png" width="100%" />
+      </a>
+    </td>
     <td>
-      <h4>Verdura Nexus</h4>
-      Effortless HTTP requests in one line of code, designed for developers who value simplicity and speed. <br/>
+      <h4>JetStart ⚡</h4>
+      Wireless, fast Android development using <b>Kotlin & Jetpack Compose</b> — works in <b>any IDE</b> with support for multiple emulators.<br/><br/>
+      <b>Why JetStart?</b><br/>
+      • No heavy Android Studio dependency<br/>
+      • Wireless & fast setup<br/>
+      • IDE-agnostic workflow<br/><br/>
+      <b>Tech:</b> Kotlin • Jetpack Compose • Node.js • TypeScript<br/>
+      <a href="https://jetstart.site">🌐 Website</a> • 
+      <a href="https://github.com/dev-phantom/JetStart">📂 Code</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://phantom-request-docs.netlify.app">
+        <img src="https://dev-phantom.netlify.app/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fphantom1245%2Fimage%2Fupload%2Fv1736969278%2Fportfolio%2FScreenshot_473_po9p3x.png&w=640&q=75" width="100%"/>
+      </a>
+    </td>
+    <td>
+      <h4>Phantom Request</h4>
+      Effortless HTTP requests in one line of code, designed for developers who value simplicity and speed.<br/><br/>
       <b>Tech:</b> TypeScript • Docusaurus • Tailwind<br/>
       <a href="https://phantom-request-docs.netlify.app">🌐 Preview</a> • 
       <a href="https://github.com/dev-phantom/phantom-request">📂 Code</a>
@@ -39,19 +62,20 @@ Whether it’s crafting blazing-fast APIs, shipping sleek React components, or d
 
 <details>
   <summary>✨ More Projects</summary>
-  
+
   | | |
   |---|---|
-  | [Verdura Nexus](https://verdura-nexus.netlify.app/) | [Nome’s Travel](https://nomes-travels.netlify.app) |
-  | [Acctprime](https://acctprime.netlify.app) | [Investments One](https://investments-one.netlify.app) |
-  | [Swifty Config](https://swifty-config.netlify.app) | [Music Player](https://phantom-music.netlify.app) |
-  | [Phantom Rentals](https://phantom-hotel.netlify.app) | [Nounite](https://nounite.netlify.app) |
+  | [JetStart](https://jetstart.site) | [Verdura Nexus](https://verdura-nexus.netlify.app/) |
+  | [Nome’s Travel](https://nomes-travels.netlify.app) | [Acctprime](https://acctprime.netlify.app) |
+  | [Investments One](https://investments-one.netlify.app) | [Swifty Config](https://swifty-config.netlify.app) |
+  | [Music Player](https://phantom-music.netlify.app) | [Phantom Rentals](https://phantom-hotel.netlify.app) |
+  | [Nounite](https://nounite.netlify.app) |  |
 
 ### 📂 Explore More
 
-🔗 Check out my [**Portfolio**](https://dev-phantom.netlify.app) to know more about me and my work.  
-📄 You can also view and download my [**Resume**](https://drive.google.com/file/d/1Btmt92tNCLEk3DQLUk2jpAUIoi3M2nZN/view).  
-🔨 Explore my other projects [**here**](https://dev-phantom.netlify.app/Projects).
+🔗 [Portfolio](https://dev-phantom.netlify.app)  
+📄 [Resume](https://drive.google.com/file/d/1Btmt92tNCLEk3DQLUk2jpAUIoi3M2nZN/view)  
+🔨 [All Projects](https://dev-phantom.netlify.app/Projects)
 
 </details>
 
@@ -60,33 +84,27 @@ Whether it’s crafting blazing-fast APIs, shipping sleek React components, or d
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-phantom&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-phantom&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-phantom&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
 ---
 
-### 📈 GitHub Activity Graph
-
-[![dev-phantom's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-phantom&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ### 🏆 Open Source Wall of Fame
 
-- 🔧 [phantom-request](https://github.com/dev-phantom/phantom-request) – Effortless HTTP made for the web.
-- 🧩 [Swifty Config](https://github.com/dev-phantom/swifty-config) – Plug and play config manager.
-- 🗃️ [Verdura Nexus](https://github.com/dev-phantom/verdura-nexus) – All-in-one API proxy playground.
+- ⚡ **JetStart** – Wireless Android development for any IDE.
+- 🔧 **phantom-request** – Effortless HTTP for the web.
+- 🧩 **Swifty Config** – Plug-and-play configuration manager.
+- 🗃️ **Verdura Nexus** – API proxy playground.
 
-> Know a cool project that should be here? [Let's collaborate](https://wa.link/6y2rtn) 🤝
+> Know a cool project that should be here? [Let’s collaborate](https://wa.link/6y2rtn) 🤝
 
 ---
 
 ### 🧰 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,nodejs,postgres,prisma,python,tensorflow,git,figma,vscode,docker,firebase,github,kotlin,linux,materialui,mongodb,netlify,npm,supabase,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,prisma,python,tensorflow,git,figma,vscode,docker,firebase,github,kotlin,linux,mongodb,netlify,npm,supabase" />
 </div>
 
 ---
@@ -95,18 +113,7 @@ Whether it’s crafting blazing-fast APIs, shipping sleek React components, or d
 
 [![Twitter](https://img.shields.io/badge/-@phantom_favour-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://mobile.twitter.com/phantom_favour)
 [![GitHub](https://img.shields.io/badge/-dev--phantom-181717?style=for-the-badge&logo=github)](https://github.com/dev-phantom)
-[![WhatsApp](https://img.shields.io/badge/-Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/6y2rtn)
 
 ---
 
 > 🧠 *“Build beautifully. Code fearlessly. Learn endlessly.”*
-
-<a href="https://www.potatoesqueezy.xyz/app/profile?user=dev-phantom" target="_blank" rel="noopener noreferrer">
-  <img 
-    src="https://coffee-major-wallaby-86.mypinata.cloud/ipfs/bafkreiaskbvndui55ycmqdu6ui6arfkhxmqgjvjcaw26myp4y76mmqtbyi" 
-    width="350" 
-    height="54" 
-    style="width: 250px; height: 54px;" 
-    alt="Potatoe Squeezy - Support GitHub contributors with crypto | Product Hunt" 
-  />
-</a>
