@@ -85,9 +85,16 @@ From blazing-fast APIs to polished React interfaces and well-documented OSS tool
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-phantom&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-phantom&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
+<div align="center">
+  <a href="https://commit-history.com/dev-phantom">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/dev-phantom?theme=dark" />
+      <img alt="dev-phantom's commit history" src="https://commit-history.com/embed/dev-phantom" />
+    </picture>
+  </a>
+</div>
 ---
 
 ### 🏆 Open Source Wall of Fame
